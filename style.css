@@ -1,0 +1,282 @@
+
+.container{
+  border:2px solid white;
+}
+.one{
+    background-color:grey;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer
+  }
+ .two{
+    display: flex;
+    background-color:purple;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+  .h4{
+    margin-left: 200px;
+    }  
+.three{
+    background-attachment: fixed;
+     padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: linear-gradient(180deg,#000124,#000124 29%,#391C5F 67%,#592D6B 86%,#7B4078);
+}
+    
+.A{
+    text-align: center;
+     color: aliceblue;
+}
+.button{
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    padding-right: 30px;
+    color: white;
+    background-color: plum;
+    margin-left: 600px;
+    text-align: center;
+    border-color: pink;
+    }
+  .four{
+    text-align: center;
+    cursor: pointer;
+    background-color:black;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 0px;
+    padding-top: 20px;
+    margin-top: 5px;
+    line-height: 30px;
+  }
+.four1{
+    font-size: 50px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.four2{
+    cursor: pointer;
+    font-size: 25px;
+    color:aliceblue;
+}
+.four3{
+  color: blue;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+}
+.four3:hover{
+    text-decoration: underline;
+}
+.four4{
+    color: blue;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 25px;
+
+}
+
+.four4:hover{
+    text-decoration: underline;
+}
+.five{
+text-align: center;
+background-color:white;
+ padding-bottom: 0px;
+ cursor: pointer;
+ }
+.five1{
+    font-size: 60px;
+}
+.five2{
+    font-size: 25px;
+}
+.five3{
+    font-size: 20px;
+}
+.five4{
+    font-size: 20px;
+    color: blue;
+    
+}
+.five5{
+  color: blue;
+  margin-left: 25px;
+  font-size: 20px;
+}
+    
+.five4:hover{
+  text-decoration: underline;
+
+}
+.five5:hover{
+  text-decoration: underline;
+ }
+
+.six{
+  cursor: pointer;
+  margin-right: 5px;
+   display: flex;
+
+}
+.watch1{
+  text-align: center;
+  border :2px solid white;
+  width: 110vh;
+}
+.watch2{
+  background-color: black;
+  text-align: center;
+  border :2px solid black;
+  width: 110vh;
+  }
+  
+.aw1{
+  font-size: 60px;
+
+}
+.aw2{
+  color:red;
+  font-size: 20px;
+}
+.aw3{
+font-size: 30px;
+}
+.aw4{
+  color: blue;
+  font-size: 20px;
+
+}
+.aw4:hover{
+  text-decoration: underline;
+}
+.aw5{
+  color: blue;
+  font-size: 20px;
+  margin-left: 30px;
+
+}
+.aw5:hover{
+  text-decoration: underline;
+}
+.aw11{
+  color: aliceblue;
+  font-size: 60px;
+}
+.aw33{
+  color: aliceblue;
+  font-size: 30px;
+}
+.seven{
+  display: flex;
+  margin-top: 5px;
+  cursor: pointer;
+}
+.seven1{
+  background-color: black;
+  text-align: center;
+  width :110vh;
+  border :2px solid black;
+}
+.seven2{
+  text-align: center;
+  background-color: white;
+  border: 2px solid white;
+ width: 110vh;
+}
+ .eight{
+  display: flex;
+  cursor: pointer;
+  margin-top: 5px;
+  cursor: pointer;
+  }
+.mac1{
+  border :2px solid white;
+  width :110vh;
+  background-color: white;
+  text-align: center;
+  }
+.mac2{
+  font-size: 50px;
+}
+.mac3{
+  font-size:25px;
+}
+.mac4{
+font-size:20px;
+color:blue;
+}
+.mac5{
+  font-size: 20px;
+  color:blue;
+}
+.maca{
+  border :2px solid black;
+  width: 110vh;
+  background-color:black ;
+  text-align: center;
+  }
+.macb{
+  font-size: 50px;
+  color: azure;
+}
+.macc{
+  font-size:25px;
+  color: aliceblue;
+}
+.macd{
+font-size:20px;
+color:blue;
+}
+.mace{
+  font-size: 20px;
+  color:blue;
+}
+.paragraph{
+  background-color:whitesmoke;
+  border:2px solid white;
+  font-size: 14px;
+  color:gray;;
+  padding-left: 10%;
+  padding-right: 10%;
+  }
+.parasub{
+  text-decoration: underline;
+  cursor: pointer;
+}
+ .columns{
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+ }
+.footer{
+  margin-right: 40%;
+  background-color: aliceblue;
+}
+  .lastpart{
+    display: flex;
+    justify-content: space-between;
+  }  
+
+.lastpart1>div{
+padding-right: 45px; 
+  
+}
+.lastpart1{
+  display: flex;
+}
+
+.hr1{
+  width: 100%;
+}
+.hr2{
+  width: 100%;
+}
+
+
+
+ 
